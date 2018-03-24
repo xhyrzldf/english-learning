@@ -12,3 +12,4 @@ that are built around reacting to change 
        vt. 把…叫做
 - refer 涉及，指向
 - imperative  命令式的
+- interaction 相互作用，交互
