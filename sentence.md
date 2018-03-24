@@ -13,3 +13,7 @@ that are built around reacting to change 
 - refer 涉及，指向
 - imperative  命令式的
 - interaction 相互作用，交互
+- interoperability n.互操作性，互用性
+- feasible adj.可行的
+- transparently adv.显式的
+- as a result 作为结果,因此
