@@ -11,3 +11,4 @@ that are built around reacting to change 
 - term n. 术语；学期；期限；条款；(代数式等的)项
        vt. 把…叫做
 - refer 涉及，指向
+- imperative  命令式的
