@@ -8,6 +8,7 @@ that are built around reacting to change 
 例如网络组件对I/O事件做出响应，UI控制器对鼠标事件做出响应
 
 生词
+
 - term n. 术语；学期；期限；条款；(代数式等的)项
        vt. 把…叫做
 - refer 涉及，指向
